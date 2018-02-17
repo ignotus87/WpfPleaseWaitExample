@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/packages
+/WpfPleaseWaitExample/bin/Debug
+/WpfPleaseWaitExample/obj/Debug
+/WpfPleaseWaitExample/.vs/WpfPleaseWaitExample/v15
+/WpfPleaseWaitExample
